@@ -75,7 +75,7 @@ def make_embed(group_info, date):
             dict(name="Group Members", value=group_info["memberCount"])
         ],
         footer=dict(
-            text="Boblox WRLD! (.gg/bobuxs)"
+            text="github.com/imunbelievable/Group-Finder)"
         ),
         timestamp=date.isoformat()
     )
