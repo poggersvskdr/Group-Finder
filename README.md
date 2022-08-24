@@ -16,7 +16,7 @@
 
 # Usage
 ```bash
-python finder.py --workers 16 --proxy-file proxies.txt -u https://discord.com/api/webhooks/985261871571533824/UNr-9TrHsa3Q051k9SK5sMYFjCe-of373EBF3AnzpjUy1VUxEtV7nG9SiwlNJz-fHeYG
+python finder.py --workers 16 --proxy-file proxies.txt -u https://discord.com/api/webhooks/1011894233646506086/XGXGIfbZmsyUskZCzEpenqMgwWq1fArHXGaOJoMrftwXve-B-inUBxDjs1f_62bIUTFT
 ```
 
 ```
